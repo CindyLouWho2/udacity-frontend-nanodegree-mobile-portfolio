@@ -1,9 +1,11 @@
 # Optimized versions
-[My server](https://princessdesign.net/optimization/) 100/100
-![100/100](./100percent.png)
-
+[My server](https://princessdesign.net/optimization/) Mobile: 100/100
+Desktop: 100/100
+![100/100](./100percent.jpg)
+Mobile: 94/100
+Desktop: 96/100
 [GitHub](https://22nds.github.io/udacity-frontend-nanodegree-mobile-portfolio/)
-
+![without browser caching on GitHub](./94-96.png)
 
 ## Final version
 * in folder /docs
