@@ -1,0 +1,34 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "``` npm install npm install --save-dev gulp npm install --save-dev gulp-pug npm install --save-dev gulp-stylus npm install --save-dev gulp-concat npm install --save-dev gulp-sourcemaps npm install --save-dev rename ``` or ``` npm install --save-dev gulp gulp-pug gulp-stylus gulp-concat gulp-sourcemaps rename",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-bower": "0.0.13",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-uncss": "^1.0.6",
+    "html-minifier": "^3.5.8",
+    "nib": "^1.1.2",
+    "postcss-uncss": "^0.15.0",
+    "rename": "^1.0.4"
+  },
+  "dependencies": {
+    "cssnano": "^3.10.0"
+  }
+}

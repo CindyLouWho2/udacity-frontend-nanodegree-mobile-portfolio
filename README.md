@@ -1,3 +1,12 @@
+Github Starter files
+https://github.com/udacity/frontend-nanodegree-mobile-portfolio
+
+Udacity Course
+https://classroom.udacity.com/courses/ud884
+
+My Github address
+https://22nds.github.io/udacity-frontend-nanodegree-mobile-portfolio/
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
